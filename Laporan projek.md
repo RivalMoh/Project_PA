@@ -84,8 +84,11 @@ dalam data tersebut sudah dilakukan pemeriksaan tentang data-data yang kemungkin
 ### Exploratory Data Analysis
 Pada tahap ini saya melakukan tahapan exploratory data analysis yang meliputi:
 - Univariate analysis adalah melakukan analisis pada satu variabel terhadap data tersebut
-! 
+![output1](https://github.com/user-attachments/assets/64af8899-14af-41bd-be31-9f19446ad25c)
+
 - Multivariate analysis adalah melakukan analisis pada beberapa variabel terhadap data tersebut
+![output2](https://github.com/user-attachments/assets/fac9fcd1-fcc4-40b4-8696-16a8f51613c2)
+
 - Kedua, menampilkan visualisasi persebaran setiap fitur pada data melalui diagram boxplot Dengan memvisualisasikan persebaran data melalui visualisasi ini, saya dapat mengetahui distribusi data yang. pada tahap ini dihasilkan diagram untuk setiap kolom yang terdapat pada dataset kecuali untuk kolom price dan kolom yang tidak terlalu berpengaruh seperti id, date, long, dan lat. disini terdapat kolom-kolom yang dimana kebanyakan hanya memiliki 1 nilai saja kolom-kolom inilah yang nantinya akan dihapus pada bagian data preparation.
 
 - Ketiga, visualisasi korelasi setiap fitur yang ada melalui heatmap. memudahkan kita dalam memahami hubungan antara fitur dengan harga rumah. hal ini juga dapat membantu kita dalam menentukan fitur yang paling penting untuk model machine learning yang akan kita buat dan menghilangkan fitur yang tidak penting. disini dapat meilihat kolom mana saja yang berkorelasi cukup tinggi dengan kolom price dan mana yang memiliki korelasi sangat kecil dengan kolom price yang nantinya akan dihapus pada tahap data preparation.

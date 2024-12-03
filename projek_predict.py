@@ -17,7 +17,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 import warnings
-warnings.filterwarnings('ignore')
+warnings.filterwarnings('ignore') 
 
 # %% [markdown]
 # # Load Data

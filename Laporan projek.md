@@ -2,7 +2,7 @@
  
 ## Domain Proyek
 Pasar properti adalah salah satu sektor ekonomi yang sangat dinamis dan berpengaruh besar terhadap kesejahteraan masyarakat dalam penelitian yang dilakukan (Rawool dkk, 2021) dinyatakan bahwa prediksi manual yang dilakukan dalam memprediksi harga rumah memiliki sebanyak 25% error yang dimana ini dapat merugikan banyak pihak. prediksi manual juga semakin sulit untuk dilakukan dikarenakan faktor yang mempengaruhi harga rumah menjadi semakin banyak (Ravindra dkk, 2020).Oleh karena itu memahami dan memprediksi harga rumah menjadi hal penting bagi berbagai pihak, termasuk pembeli, penjual, agen properti, pengembang, hingga lembaga keuangan. Dalam hal ini prediksi harga rumah yang akurat dapat membantu:
- 
+
 1. Calon pembeli dalam menentukan anggaran dan lokasi yang sesuai dengan kebutuhan mereka.
 2. Penjual dan agen properti dalam menentukan strategi penjualan yang tepat berdasarkan tren pasar.
 3. Pengembang properti untuk membuat keputusan investasi yang lebih cerdas.
